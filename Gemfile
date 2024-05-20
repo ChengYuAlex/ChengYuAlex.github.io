@@ -11,5 +11,5 @@ end
 gem "jekyll-archives", path: ".gems/jekyll-archives"
 
 # 安装必备的两个gem
-gem tzinfo
-gem tzinfo-data
+gem "tzinfo"
+gem "tzinfo-data"
